@@ -25,6 +25,8 @@
 6. Click on it and search for authorization.
 7. Now just copy. :D
 
+*DO NOT SHARE YOUR TOKEN*
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 # How to get the Discord token from the App
@@ -35,6 +37,10 @@
 4. Go to HTTP Debugger Pro and look for something that looks something like this `https://discord.com/api/v9/channels/channelID/typing`.
 5. ![image](https://github.com/CirqueiraDev/discord-typing/assets/118860604/5852857f-1671-4e32-b254-ab0f2b06ea70)
 7. Now just copy. :D
+
+*DO NOT SHARE YOUR TOKEN*
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 # Result
 
