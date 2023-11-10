@@ -1,9 +1,3 @@
-# Discord Typing Script
-
-# Author: Cirqueira
-# Discord: cirqueira
-# Github: https://github.com/CirqueiraDev/
-
 import requests, time
 
 global R,B,C,G,Y,Q
@@ -16,8 +10,6 @@ def sendTyping():
     headers = {
         "Authorization": userToken,
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) discord/1.0.9023 Chrome/108.0.5359.215 Electron/22.3.26 Safari/537.36",
-        "X-Discord-Timezone": "America/Sao_Paulo",
-        "X-Discord-Locale": "pt-BR",
         "Accept": "*/*",
         "Origin": "https://discord.com",
         "Referer": "https://discord.com/channels/@me/" + channelID,
