@@ -36,6 +36,10 @@
 5. ![image](https://github.com/CirqueiraDev/discord-typing/assets/118860604/5852857f-1671-4e32-b254-ab0f2b06ea70)
 7. Now just copy. :D
 
+# Result
+
+![image](https://github.com/CirqueiraDev/discord-typing/assets/118860604/76dbcb8d-c187-44f9-9d28-b47e09e0f453)
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <h1>Author:</h1>
