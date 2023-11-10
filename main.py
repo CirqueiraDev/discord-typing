@@ -9,8 +9,8 @@ import requests, time
 global R,B,C,G,Y,Q
 R='\033[1;31m'; B='\033[1;34m'; C='\033[1;37m'; G='\033[1;32m'; Y='\033[1;33m'; Q='\033[1;36m'
 
-channelID = "1071872797351096391main.py"   # Put the channel ID here
-userToken = "NzU1NTY0NzY4NDM3MzM4MTYy.GNGRuM._YEtusd2m29uuugbqnHAMG8csNPxSWZhttRQH4"   # Place your token here. And don't forget DON'T SHARE IT WITH ANYONE ELSE
+channelID = ""   # Put the channel ID here
+userToken = ""   # Place your token here. And don't forget DON'T SHARE IT WITH ANYONE ELSE
 
 def sendTyping():
     headers = {
