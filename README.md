@@ -15,7 +15,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-# How to get the discord token from the browser
+# How to get the Discord token from the browser
 
 1. Open discord in the browser.
 2. Open the developer tools by pressing F12.
@@ -23,6 +23,17 @@
 4. Select a chat on discord and type something.
 5. Once all this is done, you will see a request written "typing".
 6. Click on it and search for authorization.
+7. Now just copy. :D
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+# How to get the Discord token from the App
+
+1. Install [HTTP Debugger Pro](https://www.httpdebugger.com/).
+2. Open your discord.
+3. Select a chat on discord and type something.
+4. Go to HTTP Debugger Pro and look for something that looks something like this `https://discord.com/api/v9/channels/channelID/typing`.
+5. ![image](https://github.com/CirqueiraDev/discord-typing/assets/118860604/5852857f-1671-4e32-b254-ab0f2b06ea70)
 7. Now just copy. :D
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
