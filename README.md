@@ -4,6 +4,8 @@
     <img src="https://github.com/CirqueiraDev/discord-typing/assets/118860604/c9bd0e6f-cca1-4dbf-b72c-24497539c4f4">
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
 # Installation
 1. Install Git and Python 3 on your PC.
 2. Clone the KryptonC2 Github repository to your server via Git: `$ git clone https://github.com/CirqueiraDev/discord-typing`.
