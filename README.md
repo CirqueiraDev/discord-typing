@@ -8,7 +8,7 @@
 
 # Installation
 1. Install Git and Python 3 on your PC.
-2. Clone the KryptonC2 Github repository to your server via Git: `$ git clone https://github.com/CirqueiraDev/discord-typing`.
+2. Clone the Script Github repository to your server via Git: `$ git clone https://github.com/CirqueiraDev/discord-typing`.
 3. Open the "main.py" file with some text editor and enter your token and channel ID.
 4. Install the Requests Library `pip install requests` or `pip3 install requests`
 5. Start the script executing the command: `$ python main.py`.
